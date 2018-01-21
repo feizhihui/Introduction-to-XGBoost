@@ -67,4 +67,4 @@
 
 ## Reference
 * Tianqi Chen and Carlos Guestrin. [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754). In 22nd SIGKDD Conference on Knowledge Discovery and Data Mining, 2016
-* Slice from@http://www.ai100.ai/
+* Slides from@http://www.ai100.ai/
